@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: 
+Sitemap: https://www.greenfishpowered.cn/sitemap.txt
+Sitemap: https://www.greenfishpowered.cn/sitemap.xml
+Sitemap: https://www.greenfishpowered.cn/sitemap_baidu.xml
+Sitemap: https://www.greenfishpowered.cn/sitemap.html
+Sitemap: https://www.greenfishpowered.cn/sitemap_en.html

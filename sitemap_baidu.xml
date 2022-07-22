@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:mobile="http://www.baidu.com/schemas/sitemap-mobile/1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <url>
+    <loc>https://stats.greenfishpowered.cn</loc>
+  </url>
+  <url>
+    <loc>https://www.greenfishpowered.cn</loc>
+  </url>
+  <url>
+    <loc>https://blog.greenfishpowered.cn</loc>
+  </url>
+  <url>
+    <loc>https://sub.greenfishpowered.cn</loc>
+  </url>
+  <url>
+    <loc>https://sst.greenfishpowered.cn</loc>
+  </url>
+  <url>
+    <loc>https://google.greenfishpowered.cn</loc>
+  </url>
+  <url>
+    <loc>https://bing.greenfishpowered.cn</loc>
+  </url>
+  <url>
+    <loc>https://time.greenfishpowered.cn</loc>
+  </url>
+  <url>
+    <loc>https://api.music.greenfishpowered.cn</loc>
+  </url>
+  <url>
+    <loc>https://pat.api.greenfishpowered.cn</loc>
+  </url>
+  <url>
+    <loc>https://ipfs.greenfishpowered.cn</loc>
+  </url>
+  <url>
+    <loc>https://bye.greenfishpowered.cn</loc>
+  </url>
+  <url>
+    <loc>https://music.greenfishpowered.cn</loc>
+  </url>
+</urlset>
